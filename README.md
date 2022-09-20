@@ -1,2 +1,2 @@
 # NeoJS
-NeoJS - JavaScript Enjine Written in NeoLang
+NeoJS - JavaScript Engine Written in NeoLang
